@@ -40,7 +40,3 @@ AutoML (~94%)achieved a greater accuracy than the best HyperDrive (~91%) model b
 ## Future work
 **What are some areas of improvement for future experiments? Why might these improvements help the model?**
 For future experiments, a greater amount of time would be beneficial for identifying the optimal model. This time may be used to incorporate additional features, beyond this singular datatset, or to evaluate other metrics. In logistic regression problems, the AUC (Area under Curve) or F1 statistics are often used to compare models.
-
-## Proof of cluster clean up
-**If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
-**Image of cluster marked for deletion**
